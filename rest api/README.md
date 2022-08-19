@@ -1,7 +1,7 @@
-Instructions
+Challenge Instructions
 ============
 
-In whatever language you like, as simple or as complex as you like, write a small daemon that will:
+In whatever language you like, as simple or as complex as you like, write a small a web service that will:
 
 * Start listening on a HTTP or HTTPS port
 * Accept PUT requests to /word/WORDNAME, with the body of the request being a JSON hash specifying a single word
